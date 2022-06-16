@@ -1,4 +1,4 @@
-#Riccardo Pirani www.riccardopirani.altervista.org
+//Riccardo Pirani www.riccardopirani.altervista.org
 
 import java.io.*;
 import java.net.*;
